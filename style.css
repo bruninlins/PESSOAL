@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+h1{
+    color: white;
+    padding: 10px;
+    font-size: 36px;
+}
+
+span{
+    color: chartreuse;
+}
+
+p{
+    color: white;
+    margin: 10px;
+    font-family: "Montserrat", serif;
+    padding: 10px;
+}
+
+.apresentacao{ 
+    display: flex; 
+    align-items:center ;
+}
+
+.apresentacao-principal{
+    
+}
+
+.img01{
+    padding: 50px;
+    width: 500px; /* Largura fixa */
+    height: 600px; /* Altura fixa */
+}
+
+
+
+
