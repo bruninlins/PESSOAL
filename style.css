@@ -13,6 +13,7 @@ h1{
     color: white;
     padding: 10px;
     font-size: 36px;
+    font-family: "Montserrat", serif;
 }
 
 span{
@@ -29,7 +30,7 @@ p{
 .apresentacao{ 
     display: flex; 
     align-items:center ;
-    margin: 10% 15%;
+    margin: 5% 10%;
 }
 
 .img01{
