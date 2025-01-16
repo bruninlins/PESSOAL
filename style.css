@@ -29,6 +29,7 @@ p{
 .apresentacao{ 
     display: flex; 
     align-items:center ;
+    margin: 10% 15%;
 }
 
 .img01{
@@ -41,12 +42,12 @@ p{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 10px;
+    gap: 15px;
+    align-items: center;
 }
 
 a{
     background-color: rgb(0, 0, 0);
-    border-color: ;
     width: 380px;
     text-align: center;
     border-radius: 8px;
