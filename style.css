@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +19,7 @@ h1{
 }
 
 span{
-    color: chartreuse;
+    color: rgb(67, 55, 236);
 }
 
 p{
@@ -48,17 +50,27 @@ p{
 }
 
 a{
+    display: flex;
+    justify-content: center;
+    gap: 3px;
     background-color: rgb(0, 0, 0);
-    width: 380px;
+    width: 360px;
     text-align: center;
-    border-radius: 8px;
-    font-size: 24px;
+    border-radius: 10px;
+    font-size: 22px;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-family: "Montserrat", serif;  
     border: 2px solid rgb(255, 255, 255) ;
+}
+
+h2{
+    color: white;
+    align-items: center;
+    font-family: "Montserrat", serif;
+
 }
 
 
