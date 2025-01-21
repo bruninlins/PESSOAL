@@ -8,5 +8,5 @@
 
 
 <div align="center">
-  <a href="https://bruninlins.github.io/APRESENTACAO/">PORTFÓLIO</a>
+  <a href="https://bruninlins.github.io/PESSOAL/">PORTFÓLIO</a>
 </div>
