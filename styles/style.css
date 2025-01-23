@@ -100,9 +100,7 @@ body {
 }
 
 .zapzap{
-  align-items: center;
   justify-items: center;
-/*   padding-left: 29%; */
 }
 
 .apresentacao__links__link {
@@ -190,5 +188,6 @@ body {
 
     .zapzap{
       padding-bottom: 10%;
+      justify-items: center;
     }
 }
