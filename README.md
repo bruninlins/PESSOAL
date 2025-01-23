@@ -8,5 +8,5 @@
 
 
 <div align="center">
-  <a href="https://bruninlins.github.io/PESSOAL/">PORTFÓLIO</a>
+  <a href="https://crie-seu-site.netlify.app/">PORTFÓLIO</a>
 </div>
