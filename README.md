@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green" alt="Status: Em Desenvolvimento">
+<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green" alt="Status: Finalizado">
 </div>
 
 
