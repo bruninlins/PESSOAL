@@ -77,7 +77,6 @@ body {
 
 .apresentacao__links {
   display: flex;
-  flex-direction: column;
   justify-content: space-between;
   align-items: center;
   gap: 32px;
@@ -111,10 +110,10 @@ body {
 
 .apresentacao__imagem{
   margin-top: -50px;
-  width: 60%;
+  width: 50%;
   height: 650px;
   border: 2px solid white;
-  margin-top: -370px;
+
 }
 
 .apresentacao__imagem-sobre{
@@ -132,6 +131,7 @@ body {
   font-weight: 400;
   padding: 3px;
   font-weight: 400;
+  margin-top: 5em;
 }
 
 @media (max-width: 1200px){
@@ -164,10 +164,14 @@ body {
     .apresentacao__links{
         margin-bottom: 80px;
         gap: 20px;
+        display: flex;
+        flex-direction: column;
     }
     
     .apresentacao__imagem{
         margin-top: 20px;
+        height: 350px;
+        width: 380px;
     }
 
     .rodape {
@@ -178,5 +182,6 @@ body {
         font-size: 1.5rem;
         padding: 10px 0;
         margin-top: auto;
+        margin-top: 1em;
       }
 }
