@@ -157,8 +157,8 @@ body {
         margin-bottom: -80px;
     }
 
-    .apresentacao__conteudo__texto{
-        text-align: justify;
+    .apresentacao__conteudo__texto__texto, .apresentacao__conteudo__texto{
+      text-align:center;
     }
 
     .apresentacao__links{
@@ -171,7 +171,7 @@ body {
     .apresentacao__imagem{
         margin-top: 20px;
         height: 350px;
-        width: 380px;
+        width: 330px;
     }
 
     .rodape {
@@ -180,7 +180,7 @@ body {
         text-align: center;
         font-family: var(--font-secundaria);
         font-size: 1.5rem;
-        padding: 10px 0;
+        padding: 1px 0;
         margin-top: auto;
         margin-top: 1em;
       }
