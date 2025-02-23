@@ -112,8 +112,15 @@ body {
 .apresentacao__imagem{
   margin-top: -50px;
   width: 60%;
+  height: 650px;
   border: 2px solid white;
   margin-top: -370px;
+}
+
+.apresentacao__imagem-sobre{
+  width: 60%;
+  border: 2px solid white;
+  margin-top: 50px;
 }
 
 .rodape {
